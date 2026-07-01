@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.csv
+bagging_vs_random_forest.ipynb
+task.ipy
+task.ipynb.ipynb
