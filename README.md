@@ -2,7 +2,7 @@
 
 A RAG-based chatbot built as a hiring task for NayePankh Foundation, a UP-registered NGO. Answers questions about the foundation using retrieval-augmented generation, not hardcoded FAQs.
 
-**Live demo:** [add HF Spaces link]
+**Live demo:** https://huggingface.co/spaces/rahul-63/nayepankh-assistant
 
 ## What it does
 
